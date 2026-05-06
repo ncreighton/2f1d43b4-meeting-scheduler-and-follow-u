@@ -1,2 +1,30 @@
-# 2f1d43b4-meeting-scheduler-and-follow-u
-Meeting Scheduler and Follow-Up Automation N8N — a professional-grade workflow for productivity professionals. Built for production use with comprehensive documentation, instant setup, and regular updates included. Save hours of development time with this ready-to-deploy solution. Includes setup guide, configuration templates, and best practices. O
+# Meeting Scheduler and Follow-Up Automation N8N
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu9ATaDde2M09a33mcZb1D)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu9ATaDde2M09a33mcZb1D)
+- [Buy on Whop](https://whop.com/meeting-scheduler-and-follow-up-automation-n8n)
+
